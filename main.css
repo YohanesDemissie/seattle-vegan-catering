@@ -1,0 +1,60 @@
+html{
+  background: wheat;
+}
+
+img{
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+.header-icon{
+  width: 10%;
+}
+
+li{
+  font-size: 40;
+  display: inline;
+  /* margin-left: 10%; */
+  margin-top: 100px;
+
+}
+
+h1{
+  color: green;
+  text-align: center;
+  font-size: 80px;
+}
+
+p{
+  width: 30%;
+  float: left;
+  font-size: 24px;
+  color: yellowgreen;
+  margin-left: 10%;
+  line-height: 250%;
+}
+
+.home-content{
+  display: inline;
+}
+
+.soy-fredo-mac{
+  width: 40%;
+  margin-left: 7%;
+}
+
+.icons{
+  display: inline;
+  position: static;
+  /* position: relative; */
+  width: 5%;
+  margin-top: 5%;
+  margin-left: 20%;
+  /* margin-left: -100px; */
+}
+
+/* footer{
+    padding-top: 60px;
+    width: 100%;
+  } */
+
