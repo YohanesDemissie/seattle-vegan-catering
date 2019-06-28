@@ -1,0 +1,86 @@
+html {
+    background: wheat;
+  }
+
+  img{
+    width: 100%;
+    padding-bottom: 30px;
+  }
+
+  .header-icon{
+    padding-top: 0px;
+    width: 100%;
+    vertical-align: middle;
+
+  }
+
+   nav{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 100%;
+
+  }
+
+  ul{
+    list-style-type: none;
+    vertical-align: middle;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 50%;
+    padding: 0px;
+    overflow: auto;
+  }
+
+  li{
+    font-size: 40px;
+    float: left;
+    margin: 5px 0 5px 0;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    width: 60%;
+
+  }
+
+  h1 {
+    color: green;
+    text-align: center;
+    font-size: 80px;
+  }
+
+  p {
+    width: 30%;
+    float: left;
+    font-size: 24px;
+    color: yellowgreen;
+    margin-left: 10%;
+    line-height: 250%;
+  }
+
+  .home-content{
+    display: inline;
+  }
+
+  .soy-fredo-mac{
+    width: 40%;
+    margin-left: 7%;
+  }
+
+  footer{
+    display: flex;
+    align-items: stretch; /* Default */
+    justify-content: space-evenly;
+    width: 20%;
+    margin: 0px auto;
+    /* background:  */
+  }
+
+
+
+  .icons{
+    margin-top: 60%;
+    display: inline-block;
+    flex: 0 1 auto; /* Default */
+    width: 50px;
+  }
